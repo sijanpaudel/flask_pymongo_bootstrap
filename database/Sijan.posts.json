@@ -1,0 +1,31 @@
+[{
+  "_id": 1,
+  "title": "Lets learn about stock market",
+  "slug": "first-post",
+  "content": "In financial markets, stock is the partial ownership of a company. Shareholders bear the financial (but not legal) risk of the corporation, and receive dividends, which are a piece of the net income.[1]\n\nA person or organization which holds shares of stocks is called a shareholder. The value of the stock multiplied by the shares outstanding is the market capitalization. This is the most common metric for valuing a publicly traded company.\n\nStocks can be bought and sold privately or on stock exchanges. Someone who buys and sells stock on the behalf of another individual is called a stockbroker.",
+  "img_file": "home-bg.jpg",
+  "tagline": "This is first post"
+},
+{
+  "_id": 2,
+  "title": "Nepal Stock Exchange",
+  "slug": "second-post",
+  "content": "The Nepal Stock Exchange (NEPSE) is the only stock exchange of Nepal. As of February 2023, the market capitalization of the companies listed on NEPSE totaled 306,196 crore (US 24 billion).[3]The basic objective of NEPSE is to impart free marketability and liquidity to the government and corporate securities by facilitating transactions in its trading floor through member, market intermediaries, such as broker, market makers etc. As of June 2023, 226 companies are listed on the exchange, which includes commercial banks, hydro-power companies, insurance companies, and finance companies among others.[2] The Exchange has 50 registered brokers as of February 2023.",
+  "tagline": "This is second post",
+  "img_file": "about-bg.jpg"
+},
+{
+  "_id": 3,
+  "title": "Computer Programming",
+  "content": "Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding)",
+  "img_file": "",
+  "tagline": "This is my third post"
+},
+{
+  "_id": 4,
+  "title": "test",
+  "slug": "test-post",
+  "content": "Hey there, this is a test content. Hope you don't mind.",
+  "img_file": "def",
+  "tagline": "This is a test Post"
+}]

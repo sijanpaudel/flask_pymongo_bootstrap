@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":true,
+        "local_uri":"mongodb://localhost:27017",
+        "prod_uri":"mongodb://localhost:27017",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Coding Thunder",
+        "gmail_user":"sijanpaudel3@gmail.com",
+        "gmail_password":"qrjfgkrttoxuiozg",
+        "about_text":"Hi, my name is Sijan and I am a programmer",
+        "no_of_posts":2,
+        "login_image":"login.jpg",
+        "admin_user":"sijan",
+        "admin_password":"sijan"
+    }
+}
